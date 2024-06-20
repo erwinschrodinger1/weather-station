@@ -36,6 +36,7 @@ Wokwi allows for dynamic sensor value adjustments during simulation. This featur
 
 This project successfully designed a weather station prototype utilizing an ESP32 microcontroller, a DHT22 sensor, an I2C LCD display, and ThingSpeak for cloud logging. Wokwi simulations verified data transmission with dynamic sensor value adjustments. Future steps involve constructing the physical station, real-world testing, and potentially developing a user-friendly web interface for clear data visualization.
 
-![2024-06-2023-22-34-ezgif com-video-to-gif-converter](https://github.com/erwinschrodinger1/weather-station/assets/81609547/f3e1ad06-c6f2-4b0a-a246-49e3e6ac8655)
+![2024-06-2023-22-34-ezgif com-video-to-gif-converter(1)](https://github.com/erwinschrodinger1/weather-station/assets/81609547/97a9cd2f-cad1-4cd2-884a-630dc53418b7)
+
 ![image](https://github.com/erwinschrodinger1/weather-station/assets/81609547/31cc1d42-c168-4c36-bc7f-c0a921e310d7)
 
