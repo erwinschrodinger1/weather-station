@@ -1,5 +1,8 @@
 ## Weather Station Prototype with ESP32 and Cloud Logging
 
+### Demo Video
+https://youtu.be/XDWKrwy0qfI?si=F-4f__n14TOAoldB
+
 ### Introduction
 
 This project outlines the development of a weather station prototype using readily available components. The core of the system is an ESP32 microcontroller, which interfaces with a DHT22 sensor for temperature and humidity readings. A 16x2 I2C LCD display provides local data visualization, while ThingSpeak facilitates cloud-based data logging.
